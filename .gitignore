@@ -1,0 +1,48 @@
+# Target build directory (Maven)
+target/
+!.mvn/wrapper/maven-wrapper.jar
+Build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.crac/
+
+# Eclipse files (just in case)
+.settings/
+.classpath
+.project
+.factorypath
+
+# NetBeans files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Log files
+*.log
+logs/
+
+# OS-specific temporary files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Crash dumps
+clear_dump.atomic
+hs_err_pid*
+replay_pid*
+
+# Local environment/sensitive configuration files
+.env
+.env.local
