@@ -475,6 +475,7 @@ Please open an issue before starting major work so we can discuss the approach t
 # 📜 License
 
 This project is licensed under the **MIT License**
+..
 
 ---
 
