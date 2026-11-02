@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  An AI-powered software engineering platform that guides developers through every stage of building a real-world project—from idea validation to production deployment.
+  An AI-powered software engineering platform that guides developers through every stage of building a real-world project—from idea validation to production deployment..
 </p>
 
 ---
