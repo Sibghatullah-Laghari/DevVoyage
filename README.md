@@ -20,7 +20,7 @@ Learning a programming language is easier than ever.
 
 Learning **how to build software correctly** is still one of the hardest challenges for developers.
 
-Thousands of beginners know Java, Spring Boot, React, Python, or JavaScript, yet they struggle with questions like:
+Thousands of beginners know Java, Spring Boot, React, Python, or JavaScript, yet they struggle with questions like:-
 
 * Where do I start?
 * Is my project idea good?
