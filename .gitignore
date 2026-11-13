@@ -11,7 +11,7 @@ Build/
 out/
 .crac/
 
-# Eclipse files (just in case)
+# Eclipse files (just in case.)
 .settings/
 .classpath
 .project
